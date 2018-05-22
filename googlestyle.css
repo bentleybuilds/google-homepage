@@ -1,8 +1,8 @@
-.flexcontainer {
+#flexcontainer {
 	display: flex;
 }
 
-.nav {
+#nav {
 	display: inline;
 
 	list-style: none;

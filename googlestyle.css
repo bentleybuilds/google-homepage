@@ -1,3 +1,7 @@
+.flexcontainer {
+	display: flex;
+}
+
 .nav {
 	display: inline;
 

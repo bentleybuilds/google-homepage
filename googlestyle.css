@@ -1,11 +1,11 @@
 #flexcontainer {
 	display: flex;
+	justify-content: flex-end;
+	flex-direction:row;
 }
 
 #nav {
-	justify-content: flex-end;
 
-	flex-direction:row;
 
 	list-style: none;
 }

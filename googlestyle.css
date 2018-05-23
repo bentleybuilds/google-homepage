@@ -3,7 +3,9 @@
 }
 
 #nav {
-	display: inline;
+	justify-content: flex-end;
+
+	flex-direction:row;
 
 	list-style: none;
 }
